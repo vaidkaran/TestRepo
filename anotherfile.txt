@@ -1,1 +1,4 @@
-updated from git terminal, see if this change reflects on github
+updated from git terminal, removed the other half of the line
+
+adding this extra line
+adding another extra line
