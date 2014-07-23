@@ -1,4 +1,1 @@
-updated from git terminal, removed the other half of the line
-
-adding this extra line
-adding another extra line
+this is mybranch file
